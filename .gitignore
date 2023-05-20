@@ -1,0 +1,5 @@
+.venv/
+tests.py
+__pycache__/
+.vscode/
+db.sqlite3
